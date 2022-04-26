@@ -4,6 +4,7 @@
 2. User can plant seeds.
 3. User can eat.
 4. It is a top down game with a goofy way of moving the character around.
+5. Touch controls.
 
 ## Goals
 The main goal is to survive.
